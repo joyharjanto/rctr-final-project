@@ -2,7 +2,7 @@
 
 ## Project Links
 
-- [CodeSandbox Link]()
+- [CodeSandbox Link](https://codesandbox.io/s/github/joyharjanto/rctr-final-project)
 
 ## Inspiration 
 https://mmcghee18.github.io/harry-potter-spells/ <br>
